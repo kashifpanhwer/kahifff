@@ -1,0 +1,6 @@
+{
+  "name": "Shahmeer Shop",
+  "description": "Premium Enterprise-Level Grocery and Kiryana Shop from Sindh, Mirpurkhas, Village Imzaiz Panhwar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
